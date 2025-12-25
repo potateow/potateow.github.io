@@ -91,6 +91,18 @@ summary: \u8BB0\u5F55 reasoning-from-scratch-zh \u9879\u76EE\u7684\u8BAD\u7EC3\u
 project: reasoning-from-scratch-zh
 cover: https://github.com/qiuqionglin/qiuqionlin.github.io/blob/main/img/my_folder/01.webp?raw=true
 ---
+
+hello
+
+![image-20251225212244208](hello.assets/image-20251225212244208.png)`,`---
+title: \u8BAD\u7EC3\u8BB0\u5F55\uFF1Areasoning-from-scratch-zh
+date: 2025-01-12 21:00:00
+category: LLM
+tags: [LLM, \u8BAD\u7EC3, \u8BB0\u5F55]
+summary: \u8BB0\u5F55 reasoning-from-scratch-zh \u9879\u76EE\u7684\u8BAD\u7EC3\u6D41\u7A0B\u3001\u6570\u636E\u51C6\u5907\u4E0E\u5B9E\u9A8C\u8981\u70B9\u3002
+project: reasoning-from-scratch-zh
+cover: https://github.com/qiuqionglin/qiuqionlin.github.io/blob/main/img/my_folder/01.webp?raw=true
+---
 # \u8BAD\u7EC3\u8BB0\u5F55\uFF1Areasoning-from-scratch-zh
 
 ## \u76EE\u6807
